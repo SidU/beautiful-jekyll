@@ -14,10 +14,10 @@ baseurl: "/beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: Test website
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Testing how to quickly build a beautiful Jekyll website
 
 # --- Navigation bar options --- #
 
@@ -30,10 +30,9 @@ navbar-links:
   Home: ""
   Resources:
     - Getting started: "getstarted"
-    - Featured users: "featured-users"
+    - Sample tracks: "sample-tracks"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  About me: "http://blog.somecreativity.com"
 
 # --- Footer options --- #
 
